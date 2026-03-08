@@ -1,5 +1,4 @@
 # spotify-music-recommendation-system
-# Spotify Music Recommendation System
 
 This project builds a music recommendation system using Spotify song features.
 
