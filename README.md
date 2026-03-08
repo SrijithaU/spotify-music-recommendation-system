@@ -33,3 +33,15 @@ Music clusters using PCA.
 - Build Streamlit web app
 - Use Spotify API
 - Deploy recommendation system
+
+  
+This project builds a music recommendation system using Spotify song audio features.
+
+Techniques used:
+- Cosine Similarity
+- Feature Scaling
+- K-Means Clustering
+- PCA Visualization
+
+Tools:
+Python, Pandas, Scikit-learn, Matplotlib
